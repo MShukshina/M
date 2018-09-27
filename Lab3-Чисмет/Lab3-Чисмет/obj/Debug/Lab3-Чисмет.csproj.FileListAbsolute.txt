@@ -1,0 +1,8 @@
+C:\Users\Маша\source\repos\Lab3-Чисмет\Lab3-Чисмет\bin\Debug\Lab3-Чисмет.exe.config
+C:\Users\Маша\source\repos\Lab3-Чисмет\Lab3-Чисмет\bin\Debug\Lab3-Чисмет.exe
+C:\Users\Маша\source\repos\Lab3-Чисмет\Lab3-Чисмет\bin\Debug\Lab3-Чисмет.pdb
+C:\Users\Маша\source\repos\Lab3-Чисмет\Lab3-Чисмет\obj\Debug\Lab3-Чисмет.csprojResolveAssemblyReference.cache
+C:\Users\Маша\source\repos\Lab3-Чисмет\Lab3-Чисмет\obj\Debug\Lab3-Чисмет.csproj.CoreCompileInputs.cache
+C:\Users\Маша\source\repos\Lab3-Чисмет\Lab3-Чисмет\obj\Debug\Lab3-Чисмет.exe
+C:\Users\Маша\source\repos\Lab3-Чисмет\Lab3-Чисмет\obj\Debug\Lab3-Чисмет.pdb
+C:\Users\Маша\source\repos\Lab3-Чисмет\Lab3-Чисмет\bin\Debug\alglibnet2.dll
